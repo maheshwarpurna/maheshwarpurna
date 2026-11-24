@@ -63,8 +63,3 @@ Most of my work lives in **private client repositories**, so what you see on my 
 ## Open to
 
 Freelance and agency projects, Shopify app development, WordPress builds, and long-term maintenance partnerships. If you have a project in mind, get in touch through [tivlabs.com](https://tivlabs.com).
-
-<!-- Optional: GitHub stats card (private contributions are only counted if you enable them in profile settings) -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maheshwarpurna&show_icons=true&count_private=true&hide_border=true" alt="GitHub stats" height="160"/>
-</p>
